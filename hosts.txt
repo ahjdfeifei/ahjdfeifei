@@ -1,5 +1,4 @@
 
-#[Ð¡Ã×hosts]
 127.0.0.1 ad1.xiaomi.com
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 appstore.cdn.pandora.xiaomi.com
