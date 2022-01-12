@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @ahjdfeifei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ahjdfeifei/ahjdfeifei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
-赢+x 
-
+win + x 
 Windows PowerShell 管理员版
 ipconfig /flushdns #清空dns缓存
 
